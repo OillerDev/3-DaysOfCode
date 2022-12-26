@@ -30,14 +30,14 @@ O importante é que a pessoa que estiver jogando possa sempre escolher qual deci
 Além disso, também é essencial que, ao final do jogo, ela possa inserir quantas tecnologias quiser na lista de aprendizado.
 
 
-<h3>Dica</h3>
+<h2>Dica</h2>
 <p>Já deu pra ter uma ideia de como fazer toda essa historinha acontecer, né? Principalmente lembrando como utilizar as estruturas condicionais e loops em Javascript!
 
 Caso você ainda não saiba como imprimir e receber valores nas páginas web com HTML e CSS, você poderá usar console.log, prompt e alert para desenvolver o seu jogo, como você já viu nos últimos dias.
 
 Lembre-se que você pode sempre personalizar o jogo da forma que quiser.</p>
 
-<h3>Extra</h3>
+<h2>Extra</h2>
 
 <p>Você já viu estruturas condicionais em Javascript anteriormente, mas vou recapitular. O if é usado para verificar se uma determinada condição é verdadeira.
 
